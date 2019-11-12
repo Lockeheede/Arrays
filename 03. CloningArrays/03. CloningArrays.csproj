@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2D07DE00-0B40-4239-8184-09D7FB695E19}</ProjectGuid>
+    <ProjectGuid>{D97CAB85-32EB-4318-BDCD-993DFCE5DCEF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OutputtingArrays</RootNamespace>
-    <AssemblyName>OutputtingArrays</AssemblyName>
+    <RootNamespace>_03.CloningArrays</RootNamespace>
+    <AssemblyName>_03.CloningArrays</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
