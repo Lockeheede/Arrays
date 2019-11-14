@@ -56,12 +56,12 @@
         int outOfRangeCursorPosition = 2;
 
         Console.Write("Temperature Range\n");
-        Console.WriteLine(new string('-', 50));
+        Console.WriteLine(new string('-', 75));
         Console.Write("50 to 65 \n\n" +
             "65 to 80  \n\n" +
             "60 to 110 \n\n" +
             "Out of Range \n\n");
-        Console.WriteLine(new string('-', 50));
+        Console.WriteLine(new string('-', 75));
 
         for (int i = 0; i < temperatures.Length; i++)
         {
