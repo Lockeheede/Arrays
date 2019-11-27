@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. SelectionSort", "06. Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. BinarySearch", "07. BinarySearch\07. BinarySearch.csproj", "{847EC02F-20D5-4473-B57B-B94C95E142A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Symmetry", "08. Symmetry\08. Symmetry.csproj", "{751E5229-325C-43C0-B009-2AB88D2DB8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Lists", "09. Lists\09. Lists.csproj", "{B055E77F-69CB-4D2F-B20E-E04A2D139C71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{847EC02F-20D5-4473-B57B-B94C95E142A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{847EC02F-20D5-4473-B57B-B94C95E142A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{847EC02F-20D5-4473-B57B-B94C95E142A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751E5229-325C-43C0-B009-2AB88D2DB8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751E5229-325C-43C0-B009-2AB88D2DB8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751E5229-325C-43C0-B009-2AB88D2DB8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751E5229-325C-43C0-B009-2AB88D2DB8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B055E77F-69CB-4D2F-B20E-E04A2D139C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B055E77F-69CB-4D2F-B20E-E04A2D139C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B055E77F-69CB-4D2F-B20E-E04A2D139C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B055E77F-69CB-4D2F-B20E-E04A2D139C71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
